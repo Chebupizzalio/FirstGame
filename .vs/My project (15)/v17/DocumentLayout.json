@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dgole\\My project (15)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6C850D-0B69-8A24-7977-AD62CB164C94}|Assembly-CSharp.csproj|C:\\Users\\dgole\\My project (15)\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6C850D-0B69-8A24-7977-AD62CB164C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6C850D-0B69-8A24-7977-AD62CB164C94}|Assembly-CSharp.csproj|C:\\Users\\dgole\\My project (15)\\assets\\scripts\\globalstringvars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6C850D-0B69-8A24-7977-AD62CB164C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\globalstringvars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6C850D-0B69-8A24-7977-AD62CB164C94}|Assembly-CSharp.csproj|C:\\Users\\dgole\\My project (15)\\assets\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6C850D-0B69-8A24-7977-AD62CB164C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6C850D-0B69-8A24-7977-AD62CB164C94}|Assembly-CSharp.csproj|C:\\Users\\dgole\\My project (15)\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6C850D-0B69-8A24-7977-AD62CB164C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6C850D-0B69-8A24-7977-AD62CB164C94}|Assembly-CSharp.csproj|c:\\users\\dgole\\my project (15)\\assets\\scripts\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6C850D-0B69-8A24-7977-AD62CB164C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6C850D-0B69-8A24-7977-AD62CB164C94}|Assembly-CSharp.csproj|C:\\Users\\dgole\\My project (15)\\assets\\scripts\\selectedlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6C850D-0B69-8A24-7977-AD62CB164C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selectedlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6C850D-0B69-8A24-7977-AD62CB164C94}|Assembly-CSharp.csproj|C:\\Users\\dgole\\My project (15)\\assets\\scripts\\bonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6C850D-0B69-8A24-7977-AD62CB164C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6C850D-0B69-8A24-7977-AD62CB164C94}|Assembly-CSharp.csproj|C:\\Users\\dgole\\My project (15)\\assets\\scripts\\soul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6C850D-0B69-8A24-7977-AD62CB164C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6C850D-0B69-8A24-7977-AD62CB164C94}|Assembly-CSharp.csproj|C:\\Users\\dgole\\My project (15)\\assets\\scripts\\stopwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6C850D-0B69-8A24-7977-AD62CB164C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stopwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6C850D-0B69-8A24-7977-AD62CB164C94}|Assembly-CSharp.csproj|C:\\Users\\dgole\\My project (15)\\assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6C850D-0B69-8A24-7977-AD62CB164C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6C850D-0B69-8A24-7977-AD62CB164C94}|Assembly-CSharp.csproj|C:\\Users\\dgole\\My project (15)\\assets\\scripts\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6C850D-0B69-8A24-7977-AD62CB164C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Finish.cs",
+              "DocumentMoniker": "C:\\Users\\dgole\\My project (15)\\Assets\\Scripts\\Finish.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finish.cs",
+              "ToolTip": "C:\\Users\\dgole\\My project (15)\\Assets\\Scripts\\Finish.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:21:24.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bonus.cs",
+              "DocumentMoniker": "C:\\Users\\dgole\\My project (15)\\Assets\\Scripts\\Bonus.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bonus.cs",
+              "ToolTip": "C:\\Users\\dgole\\My project (15)\\Assets\\Scripts\\Bonus.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bonus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:33:58.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Soul.cs",
+              "DocumentMoniker": "C:\\Users\\dgole\\My project (15)\\Assets\\Scripts\\Soul.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Soul.cs",
+              "ToolTip": "C:\\Users\\dgole\\My project (15)\\Assets\\Scripts\\Soul.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Soul.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:33:11.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Stopwatch.cs",
+              "DocumentMoniker": "C:\\Users\\dgole\\My project (15)\\Assets\\Scripts\\Stopwatch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stopwatch.cs",
+              "ToolTip": "C:\\Users\\dgole\\My project (15)\\Assets\\Scripts\\Stopwatch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stopwatch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:42:47.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Users\\dgole\\My project (15)\\Assets\\Scripts\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Door.cs",
+              "ToolTip": "C:\\Users\\dgole\\My project (15)\\Assets\\Scripts\\Door.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Door.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwC8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:28:33.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StateMachine.cs",
+              "DocumentMoniker": "C:\\Users\\dgole\\My project (15)\\Assets\\Scripts\\StateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine.cs",
+              "ToolTip": "C:\\Users\\dgole\\My project (15)\\Assets\\Scripts\\StateMachine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwEUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:10:58.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SelectedLevel.cs",
+              "DocumentMoniker": "C:\\Users\\dgole\\My project (15)\\Assets\\Scripts\\SelectedLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SelectedLevel.cs",
+              "ToolTip": "C:\\Users\\dgole\\My project (15)\\Assets\\Scripts\\SelectedLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SelectedLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:10:35.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraMovement.cs",
+              "DocumentMoniker": "C:\\Users\\dgole\\My project (15)\\Assets\\Scripts\\CameraMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraMovement.cs",
+              "ToolTip": "C:\\Users\\dgole\\My project (15)\\Assets\\Scripts\\CameraMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:21:27.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalStringVars.cs",
+              "DocumentMoniker": "C:\\Users\\dgole\\My project (15)\\Assets\\Scripts\\GlobalStringVars.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GlobalStringVars.cs",
+              "ToolTip": "C:\\Users\\dgole\\My project (15)\\Assets\\Scripts\\GlobalStringVars.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GlobalStringVars.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:05:08.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\dgole\\My project (15)\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\dgole\\My project (15)\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:55:31.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\dgole\\My project (15)\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\dgole\\My project (15)\\Assets\\Scripts\\PlayerMovement.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs*",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:44:50.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
