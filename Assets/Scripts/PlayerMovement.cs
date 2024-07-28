@@ -36,14 +36,21 @@ namespace WildBall
             }
         }
 
-        public void OnCollisionEnter(Collision collision)
+        public void OnCollisionStay(Collision collision)
         {
-            Grounded = true;
+            if(collision.collider.CompareTag("Ground"))
+            {
+                Grounded = true;
+            }
+            
         }
-        
+
         public void OnCollisionExit(Collision collision)
         {
-            Grounded = false;
+            if(collision.collider.CompareTag("Ground"))
+            {
+                Grounded = false;
+            }
         }
     }
 }

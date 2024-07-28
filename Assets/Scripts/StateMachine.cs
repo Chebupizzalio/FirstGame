@@ -1,3 +1,5 @@
+using JetBrains.Annotations;
+using System.Runtime.CompilerServices;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
@@ -10,11 +12,19 @@ namespace WildBall
         [SerializeField] private GameObject SecondScreen;
         [SerializeField] private ParticleSystem DeadEffect;
         private GameObject currentScreen;
+        private GameObject state;
 
         private void Start()
         {
             FirstScreen.SetActive(true);
             currentScreen = FirstScreen;
+        }
+        public void MenuOpen(bool esc)
+        {
+            if (esc)
+            {
+                Debug.Log("esc");
+            }
         }
 
         public void ChangeState(GameObject state)
